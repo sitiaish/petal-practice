@@ -1,0 +1,19 @@
+svg { 
+  background: #f9f9f9;
+  display: block;
+  margin: 0 auto;
+}
+
+body {
+  padding-bottom: 2rem;
+}
+
+/* @font-face {
+  font-family: "IBM Plex Sans";
+  src: url("../assets/fonts/IBMPlexSans-Regular.ttf") format('truetype');
+  font-weight: 400;
+} */
+/*    src: url("../assets/fonts/lineto-akkurat-pro-italic.eot?#iefix") format("embedded-opentype"),
+        url("../assets/fonts/lineto-akkurat-pro-italic.woff2") format("woff2"),
+        url("../assets/fonts/lineto-akkurat-pro-italic.woff") format("woff");*/
+
